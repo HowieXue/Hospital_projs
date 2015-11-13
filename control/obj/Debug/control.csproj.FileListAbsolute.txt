@@ -1,0 +1,8 @@
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\control\bin\Debug\control.dll
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\control\bin\Debug\control.pdb
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\control\obj\Debug\control.dll
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\control\obj\Debug\control.pdb
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\control\obj\Debug\control.NoTitleLoginForm.resources
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\control\obj\Debug\control.csproj.GenerateResource.Cache
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\control\obj\Debug\control.csprojResolveAssemblyReference.cache
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\control\obj\Debug\control.DicomSPUControl.resources

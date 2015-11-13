@@ -1,0 +1,17 @@
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\bin\Debug\P5.exe.config
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\bin\Debug\P5.exe
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\bin\Debug\P5.pdb
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\bin\Debug\NLog.dll
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\bin\Debug\Scs.dll
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\bin\Debug\NLog.xml
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\bin\Debug\Scs.xml
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\obj\Debug\P5.Properties.Resources.resources
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\obj\Debug\P5.csproj.GenerateResource.Cache
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\obj\Debug\P5.exe
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\obj\Debug\P5.pdb
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\obj\Debug\P5.P5Form.resources
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\bin\Debug\net.dll
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\bin\Debug\net.pdb
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\obj\Debug\P5.csprojResolveAssemblyReference.cache
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\bin\Debug\control.dll
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\P5\bin\Debug\control.pdb

@@ -1,0 +1,30 @@
+-------------------------------服务器端  
+
+直接安装安装Orthanc-0.93程序，可以看到Orthanc线程和服务。源码编译版在家电脑中
+
+  使用DCMTK工具作为客户端：将其中工具放到C/Windows/system32/下，以便在cmd中直接运行； 然后
+在cmd中敲命令 storescu.exe –d –aec ORTHANC localhost 4242 c:\test.dcm 
+
+  用谷歌浏览器打开http://localhost:8042  可以看到Web服务端
+使用客户端命令发送某文件夹的DICOM文件到Orthanc服务器上，
+  然后在C/Orthanc/OrthancStorage中可以找到该文件
+
+----------------------------------客户端
+eFilm安装：efilm43.exe  ，重启之前进行汉化，安装时配置AE Title， 选择evaluate试用。
+xp下安装需要注册码，安装好所需数据库后 ，可以直接打开绿色版进行使用。
+
+ 建议整个PACS中Dicom设备均使用相同的Port
+
+远程配置：Edit---Pro----Remote  注意：远程只能有一个server！
+
+客户端eFilm     AE：eFilm01   端口号4006  
+服务器Orthanc   AE：ORTHANC         4242    ip：172.28.11.128  类型：server
+
+客户端发送： 先打开一个dcm文件 然后在search中study list会有相应文件 再次点击search刷新，找到下面文件
+ 点击send 发送 （发送时不要勾选Encrypt ），就会弹出发送队列。
+在服务器端浏览器或C/Orthanc/OrthancStorage就可看到
+
+发送文件有的未在发送队列显示，可能是因为dcm文件不是CT MR等，换了个标准CT文件就可以发送了。
+ 保留原设置 在浏览器访问http://172.28.11.128：8042 可以浏览服务器端DICOM文件
+ 
+客户端打开服务器网页提示要登录的时候：把服务器Config.json中远程访问RemoteAccessAllowed: false改为true,然后重启orthanc服务即可

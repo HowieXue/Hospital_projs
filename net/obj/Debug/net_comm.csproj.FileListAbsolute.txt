@@ -1,0 +1,10 @@
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\net_comm\bin\Debug\net_comm.dll
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\net_comm\bin\Debug\net_comm.pdb
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\net_comm\obj\Debug\net_comm.csprojResolveAssemblyReference.cache
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\net_comm\obj\Debug\net_comm.dll
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\net_comm\obj\Debug\net_comm.pdb
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\net_comm\bin\Debug\NLog.dll
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\net_comm\bin\Debug\Scs.dll
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\net_comm\bin\Debug\NLog.xml
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\net_comm\bin\Debug\Scs.xml
+D:\liuyh\work\ProgShow\ding\projs\hospital_projs\net_comm\bin\Debug\Scs.pdb

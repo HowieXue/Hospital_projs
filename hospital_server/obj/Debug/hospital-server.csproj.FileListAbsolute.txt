@@ -1,0 +1,11 @@
+D:\liuyh\work\ProgShow\ding\projs\hospital\bin\Debug\hospital.exe.config
+D:\liuyh\work\ProgShow\ding\projs\hospital\bin\Debug\hospital.exe
+D:\liuyh\work\ProgShow\ding\projs\hospital\bin\Debug\hospital.pdb
+D:\liuyh\work\ProgShow\ding\projs\hospital\bin\Debug\Dicom.dll
+D:\liuyh\work\ProgShow\ding\projs\hospital\bin\Debug\DICOM.NLog.dll
+D:\liuyh\work\ProgShow\ding\projs\hospital\bin\Debug\NLog.dll
+D:\liuyh\work\ProgShow\ding\projs\hospital\bin\Debug\NLog.xml
+D:\liuyh\work\ProgShow\ding\projs\hospital\obj\Debug\hospital.exe
+D:\liuyh\work\ProgShow\ding\projs\hospital\obj\Debug\hospital.pdb
+D:\liuyh\work\ProgShow\ding\projs\hospital\bin\Debug\hospital-server.exe.config
+D:\liuyh\work\ProgShow\ding\projs\hospital\bin\Debug\hospital_server.exe.config
